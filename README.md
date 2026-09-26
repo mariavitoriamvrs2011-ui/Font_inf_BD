@@ -8,4 +8,5 @@ https://canva.link/8n08fjz6ci5om28
 <img width="1317" height="384" alt="Captura 2" src="https://github.com/user-attachments/assets/f37700bd-bc9c-4ae0-896a-eef0b839709b" />
 <img width="1249" height="346" alt="Captura 3" src="https://github.com/user-attachments/assets/5053b89f-8894-499d-b2d0-31dfe7df3756" />
 <img width="1840" height="924" alt="image" src="https://github.com/user-attachments/assets/f27812ff-dedd-40c5-9537-b5b88c18cd2a" />
+<img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/f9961d0f-b217-43dc-85f1-d01491101282" />
 
