@@ -1,5 +1,5 @@
 # Font_inf_BD
-Repositório para atividades desta disciplina 
+Repositório para atividades desta disciplina
 
 Sobre o Projeto
  
