@@ -33,6 +33,7 @@ Qual a Unidade da Federação (UF) com o maior número de empresas habilitadas?
 
 Quantas empresas possuem adesão ao Decreto nº 1.563/95?
 <img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/cf72e6d3-add4-48f5-8b57-09c27a2bfeac" />
+<img width="1074" height="358" alt="image" src="https://github.com/user-attachments/assets/a246ed8d-806c-4488-a67a-b9ba084747b5" />
 
 ## Meio Ambiente
 Este projeto tem como objetivo analisar o volume histórico de ocorrências e registros referentes à reparação de danos ambientais. A partir de uma base de dados brutos, utilizamos técnicas de manipulação e consolidação no Excel com funções condicionais para gerar visões analíticas por ano de referência.
@@ -44,8 +45,6 @@ Consolidar os dados brutos: Agrupar milhares de registros individuais por seu re
 Identificar tendências: Verificar se houve aumento ou queda no volume de ações registradas ao longo dos anos.
 
 Subsidiar tomadas de decisão: Fornecer dados quantitativos claros para gestão de políticas ambientais e fiscalização.
-
-<img width="1074" height="358" alt="image" src="https://github.com/user-attachments/assets/a246ed8d-806c-4488-a67a-b9ba084747b5" />
 <img width="1340" height="370" alt="Captura 1" src="https://github.com/user-attachments/assets/4cb2a927-f592-4310-b291-2e49c462b322" />
 <img width="1317" height="384" alt="Captura 2" src="https://github.com/user-attachments/assets/f37700bd-bc9c-4ae0-896a-eef0b839709b" />
 <img width="1249" height="346" alt="Captura 3" src="https://github.com/user-attachments/assets/5053b89f-8894-499d-b2d0-31dfe7df3756" />
