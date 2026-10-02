@@ -1,5 +1,10 @@
 # Font_inf_BD
 Repositório para atividades desta disciplina 
+
+## Trabalho de apresentação 
+Atvidade de slide construida atraves do canva onde escolhemos 3 temas para apresentar nossa perspectiva.
+Para representar atividade eu escolhi o slide com meu irmão, pois ele é uma pessoa que me motiva e inspira.
+
 <img width="677" height="383" alt="image" src="https://github.com/user-attachments/assets/b92d26a5-d630-49f0-94e5-39f4fa81d3b9" />
 https://canva.link/8n08fjz6ci5om28
 <img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/cf72e6d3-add4-48f5-8b57-09c27a2bfeac" />
