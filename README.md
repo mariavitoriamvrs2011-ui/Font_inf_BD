@@ -19,7 +19,7 @@ Este projeto consiste na análise de um conjunto de dados públicos referente ao
 
 Para realizar a análise, o conjunto de dados foi obtido diretamente do portal de Dados Abertos do Governo Federal (dados.gov.br). Os dados foram organizados e representados em tabelas estruturadas no Microsoft Excel.
 
-Com base nos dados importados, foram elaboradas três questões principais para orientar o diagnóstico. Para responder a essas perguntas e apresentar as conclusões, utilizei:
+Com base nos dados importados, foram elaboradas duas questões principais para orientar o diagnóstico. Para responder a essas perguntas e apresentar as conclusões, utilizei:
 
 Fórmulas no Excel (com destaque para a função CONT.SE);
 
