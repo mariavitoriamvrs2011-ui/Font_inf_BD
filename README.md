@@ -1,5 +1,5 @@
 # Font_inf_BD
-<h1> banco de Dados </h1>h1></h1>
+<h1>✨ 🗄️ Banco de Dados ✨</h1>
 ## Repositório para atividades desta disciplina
 
 ## Sobre o Projeto
