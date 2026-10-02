@@ -2,7 +2,7 @@
 Repositório para atividades desta disciplina 
 
 Sobre o Projeto
-
+ 
 Este repositório reúne os slides criados no Canva para a atividade de apresentação. O objetivo principal do trabalho foi selecionar três temas centrais para expor nossas perspectivas individuais.
 
 💡 Destaque da Apresentação
@@ -12,7 +12,26 @@ Para o ponto central da atividade, escolhi incluir um slide dedicado ao meu irm�
 <img width="677" height="383" alt="image" src="https://github.com/user-attachments/assets/b92d26a5-d630-49f0-94e5-39f4fa81d3b9" />
 https://canva.link/8n08fjz6ci5om28
 
+## Agência Nacional de Transportes
+Este projeto consiste na análise de um conjunto de dados públicos referente ao setor de transportes no Brasil, visando extrair informações relevantes através do tratamento de dados, fórmulas e recursos visuais.
 
+📌 Sobre o Projeto
+
+Para realizar a análise, o conjunto de dados foi obtido diretamente do portal de Dados Abertos do Governo Federal (dados.gov.br). Os dados foram organizados e representados em tabelas estruturadas no Microsoft Excel.
+
+Com base nos dados importados, foram elaboradas três questões principais para orientar o diagnóstico. Para responder a essas perguntas e apresentar as conclusões, utilizei:
+
+Fórmulas no Excel (com destaque para a função CONT.SE);
+
+Gráficos dinâmicos/visuais para representação dos resultados.
+
+❓ Perguntas da Análise
+
+As perguntas elaboradas para estruturar o estudo foram:
+
+Qual a Unidade da Federação (UF) com o maior número de empresas habilitadas?
+
+Quantas empresas possuem adesão ao Decreto nº 1.563/95?
 <img width="1090" height="691" alt="image" src="https://github.com/user-attachments/assets/cf72e6d3-add4-48f5-8b57-09c27a2bfeac" />
 <img width="1074" height="358" alt="image" src="https://github.com/user-attachments/assets/a246ed8d-806c-4488-a67a-b9ba084747b5" />
 <img width="1340" height="370" alt="Captura 1" src="https://github.com/user-attachments/assets/4cb2a927-f592-4310-b291-2e49c462b322" />
