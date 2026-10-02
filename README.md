@@ -1,7 +1,7 @@
 # Font_inf_BD
-Repositório para atividades desta disciplina
+## Repositório para atividades desta disciplina
 
-Sobre o Projeto
+## Sobre o Projeto
  
 Este repositório reúne os slides criados no Canva para a atividade de apresentação. O objetivo principal do trabalho foi selecionar três temas centrais para expor nossas perspectivas individuais.
 
