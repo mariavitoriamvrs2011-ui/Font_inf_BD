@@ -1,9 +1,13 @@
 # Font_inf_BD
 Repositório para atividades desta disciplina 
 
-## Trabalho de apresentação 
-Atvidade de slide construida atraves do canva onde escolhemos 3 temas para apresentar nossa perspectiva.
-Para representar atividade eu escolhi o slide com meu irmão, pois ele é uma pessoa que me motiva e inspira.
+Sobre o Projeto
+
+Este repositório reúne os slides criados no Canva para a atividade de apresentação. O objetivo principal do trabalho foi selecionar três temas centrais para expor nossas perspectivas individuais.
+
+💡 Destaque da Apresentação
+
+Para o ponto central da atividade, escolhi incluir um slide dedicado ao meu irmão. Ele representa a minha principal fonte de motivação e inspiração diária, simbolizando os valores de apoio e superação que carrego comigo.
 
 <img width="677" height="383" alt="image" src="https://github.com/user-attachments/assets/b92d26a5-d630-49f0-94e5-39f4fa81d3b9" />
 https://canva.link/8n08fjz6ci5om28
