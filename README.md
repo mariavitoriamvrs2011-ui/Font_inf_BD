@@ -61,5 +61,12 @@ O tamanho dos pontos varia proporcionalmente de acordo com a quantidade de empre
 Plataforma: Power BI / Excel Dashboard   
 Geolocalização: Integração com mapas (Bing Maps) 
 <img width="1840" height="924" alt="image" src="https://github.com/user-attachments/assets/f27812ff-dedd-40c5-9537-b5b88c18cd2a" />
+
+## 📊 Dashboard ANTT – Transporte Multimodal
+Painel interativo no Power BI para análise geográfica, temporal e regulatória das empresas cadastradas na ANTT.   
+💡 Principais Respostas do Painel🏢 de Empresas Habilitadas: 1.382 empresas.  
+🗺️ Distribuição Geográfica: Mapeamento espacial por cidade, mostrando maior concentração de operadores no Sul e Sudeste.   📜 Adesão ao Decreto 1.563/95: 242 empresas aderiram à regulamentação.   
+📅 Ano de Vigência Mais Frequente: Pico em 2032 (114 empresas), seguido por 2036 (97 empresas). 
+Ferramentas: Power BI • Análise Geospacial (Bing Maps) • Modelagem de Dados   
 <img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/f9961d0f-b217-43dc-85f1-d01491101282" />
 
