@@ -1,6 +1,15 @@
 # Font_inf_BD
 <h1>✨ 🗄️ Banco de Dados ✨</h1>
 
+> 💡 **Nota da Autora**
+> 
+> Olá! Sou a **Maria Vitória**, tenho 23 anos, sou acadêmica de **Gestão da Produção Industrial (GPI)** na FATEC e atuo na **Embraer**. 
+> 
+> **Não sou desenvolvedora de software por formação.** Meu universo é a gestão, a otimização de processos industriais, a melhoria contínua e a análise de dados (Power BI e Excel). 
+> 
+> Criei este espaço para documentar meus primeiros passos no mundo da tecnologia e dos dados, compartilhando minhas primeiras análises, projetos e dashboards voltados à gestão da produção. 🚀
+
+ 
  ## Repositório para atividades desta disciplina
 
 ## Sobre o Projeto
@@ -50,6 +59,7 @@ Subsidiar tomadas de decisão: Fornecer dados quantitativos claros para gestão 
 <img width="1340" height="370" alt="Captura 1" src="https://github.com/user-attachments/assets/4cb2a927-f592-4310-b291-2e49c462b322" />
 <img width="1317" height="384" alt="Captura 2" src="https://github.com/user-attachments/assets/f37700bd-bc9c-4ae0-896a-eef0b839709b" />
 <img width="1249" height="346" alt="Captura 3" src="https://github.com/user-attachments/assets/5053b89f-8894-499d-b2d0-31dfe7df3756" />
+
 
 ## 🚚 Análise ANTT – Empresas Multimodais
 Este painel/dashboard interativo apresenta uma análise espacial e quantitativa sobre a distribuição geográfica e a adesão regulatória das empresas de transporte multimodal cadastradas na ANTT (Agência Nacional de Transportes Terrestres).   
