@@ -1,13 +1,11 @@
 # Font_inf_BD
 <h1>✨ 🗄️ Banco de Dados ✨</h1>
 
-> 💡 **Nota da Autora**
+## > Olá! Sou a **Maria Vitória**, tenho 23 anos, sou acadêmica de Gestão da Produção Industrial (GPI)** na FATEC e atuo na Embraer. 
 > 
-> Olá! Sou a **Maria Vitória**, tenho 23 anos, sou acadêmica de **Gestão da Produção Industrial (GPI)** na FATEC e atuo na **Embraer**. 
+## > Não sou desenvolvedora de software por formação. Meu universo é a gestão, a otimização de processos industriais, a melhoria contínua e a análise de dados (Power BI e Excel). 
 > 
-> **Não sou desenvolvedora de software por formação.** Meu universo é a gestão, a otimização de processos industriais, a melhoria contínua e a análise de dados (Power BI e Excel). 
-> 
-> Criei este espaço para documentar meus primeiros passos no mundo da tecnologia e dos dados, compartilhando minhas primeiras análises, projetos e dashboards voltados à gestão da produção. 🚀
+## > Criei este espaço para documentar meus primeiros passos no mundo da tecnologia e dos dados, compartilhando minhas primeiras análises, projetos e dashboards voltados à gestão da produção. 🚀
 
  
  ## Repositório para atividades desta disciplina
@@ -73,6 +71,7 @@ O tamanho dos pontos varia proporcionalmente de acordo com a quantidade de empre
 Plataforma: Power BI / Excel Dashboard   
 Geolocalização: Integração com mapas (Bing Maps) 
 <img width="1840" height="924" alt="image" src="https://github.com/user-attachments/assets/f27812ff-dedd-40c5-9537-b5b88c18cd2a" />
+
 
 ## 📊 Dashboard ANTT – Transporte Multimodal
 Painel interativo no Power BI para análise geográfica, temporal e regulatória das empresas cadastradas na ANTT.   
