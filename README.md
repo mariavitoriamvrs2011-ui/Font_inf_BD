@@ -73,6 +73,7 @@ Geolocalização: Integração com mapas (Bing Maps)
 <img width="1840" height="924" alt="image" src="https://github.com/user-attachments/assets/f27812ff-dedd-40c5-9537-b5b88c18cd2a" />
 
 
+
 ## 📊 Dashboard ANTT – Transporte Multimodal
 Painel interativo no Power BI para análise geográfica, temporal e regulatória das empresas cadastradas na ANTT.   
 💡 Principais Respostas do Painel🏢 de Empresas Habilitadas: 1.382 empresas.  
