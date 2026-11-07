@@ -100,5 +100,18 @@ Ferramenta: Google Colab
 <img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/78ca725a-f3fe-4b4a-9d22-a93ef2e73e84" />
 
 
+## Google Colab 
+
+ Objetivo
+Reproduzir a análise de horas estudadas versus notas utilizando Python e comparar os resultados com o modelo criado no Excel.
+
+Coletar os dados sobre notas de estudantes
+Usando planilha eletrônica (Excel), construir um gráfico de dispersão
+Usando regressão linear.
+
+<img width="1916" height="823" alt="image" src="https://github.com/user-attachments/assets/6bb5aa1e-294d-44d3-837e-71d9a92eb5ab" />
+
+
+
 
 
