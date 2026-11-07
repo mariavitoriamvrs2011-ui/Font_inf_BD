@@ -83,3 +83,22 @@ Painel interativo no Power BI para análise geográfica, temporal e regulatória
 Ferramentas: Power BI • Análise Geospacial (Bing Maps) • Modelagem de Dados   
 <img width="1310" height="726" alt="image" src="https://github.com/user-attachments/assets/f9961d0f-b217-43dc-85f1-d01491101282" />
 
+## EXCEL E COLAB
+O Excel é uma ferramenta importante para organizar dados, neste caso gráfico de dispersão e regressão linear simples.
+  utilizando Python para aplicar conceitos estatísticos e comparar resultados com ferramentas como o Excel.
+
+ Projeto 01 — Regressão Linear com Python
+
+Ferramenta: Google Colab
+
+<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/4441eac6-59ae-4e8a-b71a-b2e5a4f7ab05" />
+
+<img width="1919" height="680" alt="image" src="https://github.com/user-attachments/assets/2e508551-351d-44ba-bf55-207218b0428f" />
+
+<img width="1919" height="965" alt="image" src="https://github.com/user-attachments/assets/8df9ad40-1901-4da8-9efd-1f680335673d" />
+
+<img width="1919" height="949" alt="image" src="https://github.com/user-attachments/assets/78ca725a-f3fe-4b4a-9d22-a93ef2e73e84" />
+
+
+
+
