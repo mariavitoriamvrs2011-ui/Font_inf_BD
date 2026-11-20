@@ -112,6 +112,9 @@ Usando regressão linear.
 <img width="1916" height="823" alt="image" src="https://github.com/user-attachments/assets/6bb5aa1e-294d-44d3-837e-71d9a92eb5ab" />
 
 
+## 📊Dashboard Interativo
 
+Analise comparação entre paises da expectativa de vida
 
+<img width="1290" height="726" alt="image" src="https://github.com/user-attachments/assets/da9b38f6-df95-4835-b4a4-4ab542054357" />
 
