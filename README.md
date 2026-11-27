@@ -265,7 +265,62 @@ Construir uma carreira na área de Análise de Dados, Business Intelligence e Ge
 
 Busco oportunidades para colocar meus conhecimentos em prática, participar de novos desafios e crescer profissionalmente, sempre com dedicação, curiosidade e vontade de aprender.
 
+## 🎓 Certificações e Conquistas
+
+🎓 Certificações e Conquistas
+
+📊 Power BI – Aplicação do Power BI para Aprimoramento da Gestão
+
+Concluí o curso Aplicação do Power BI para Aprimoramento da Gestão, oferecido pela Escola Nacional de Administração Pública (ENAP).
+
+Durante essa formação, desenvolvi conhecimentos em análise e transformação de dados, modelagem, cálculos, criação de visualizações e publicação de relatórios no Power BI Online.
+
+Detalhes da certificação:
+
+🏛️ Instituição: ENAP
+
+📚 Curso: Aplicação do Power BI para Aprimoramento da Gestão
+
+⏱️ Carga horária: 25 horas
+
+🏆 Nota final: 96
+
+📅 Conclusão: Novembro de 2026
+
+Principais conhecimentos adquiridos:
+
+Introdução ao Power BI;
+
+Obtenção e transformação de dados;
+
+Modelagem de dados;
+
+Cálculos no Power BI;
+
+Visualização de dados;
+
+Publicação de relatórios no Power BI Online;
+
+Automatização de atualizações.
+
+✨ Mais um passo na minha jornada de aprendizado e desenvolvimento profissional na área de tecnologia, gestão e análise de dados!
+
+<img width="1129" height="798" alt="image" src="https://github.com/user-attachments/assets/973d5bbe-7a93-4c5c-a4c3-591188cd1496" />
+
+
+
+
+
+
+
+
+
+
 ## ✨“Grandes conquistas começam com pequenos passos e a coragem de continuar aprendendo.” 🌷
+
+
+
+
 
 
 
